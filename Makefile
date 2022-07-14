@@ -1,7 +1,6 @@
-CFLAGS=-Wall -g
+CFLAGS=-Wall -g -DNDEBUG
 
 all:
-	make ex1 ex3
+	make ex19
 clean:
-	rm -f ex1
-	rm -f ex3
+	rm -f ex19
