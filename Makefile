@@ -1,6 +1,6 @@
 CFLAGS=-Wall -g -DNDEBUG
 
 all:
-	make ex19
+	make ex24
 clean:
-	rm -f ex19
+	rm -f ex24
