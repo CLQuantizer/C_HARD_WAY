@@ -1,6 +1,6 @@
 CFLAGS=-Wall -g -DNDEBUG
 
 all:
-	make logfind
+	make logfind pointer
 clean:
 	rm -f ex25
