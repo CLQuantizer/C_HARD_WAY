@@ -1,6 +1,6 @@
 CFLAGS=-Wall -g -DNDEBUG
 
 all:
-	make ex25
+	make logfind
 clean:
 	rm -f ex25
